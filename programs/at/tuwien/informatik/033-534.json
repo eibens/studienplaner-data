@@ -1,0 +1,430 @@
+{
+  "name": "BAC Software & Information Engineering",
+  "courses": [{
+    "id": 1,
+    "type": "VU",
+    "title": "Propädeutikum für Informatik",
+    "credits": "6.0",
+    "tags": ["Prolog"]
+  }, {
+    "id": 2,
+    "type": "VU",
+    "title": "Algorithmen und Datenstrukturen 1",
+    "credits": 6.0,
+    "tags": ["Pflichtmodul", "STEG erforderlich"]
+  }, {
+    "id": 3,
+    "type": "VU",
+    "title": "Algorithmen und Datenstrukturen 2",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEG erforderlich"]
+  }, {
+    "id": 4,
+    "type": "VU",
+    "title": "Objektorientierte Programmiertechniken",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 5,
+    "type": "VU",
+    "title": "Funktionale Programmierung",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 6,
+    "type": "VU",
+    "title": "Programmkonstruktion",
+    "credits": 8.8,
+    "tags": ["Pflichtmodul", "STEOP", "STEG erforderlich"]
+  }, {
+    "id": 7,
+    "type": "UE",
+    "title": "Studieneingangsgespräch",
+    "credits": 0.2,
+    "tags": ["Pflichtmodul", "STEG"]
+  }, {
+    "id": 8,
+    "type": "VO",
+    "title": "Deklaratives Problemlösen",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 9,
+    "type": "UE",
+    "title": "Deklaratives Problemlösen",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 10,
+    "type": "VU",
+    "title": "Logikprogrammierung und Constraints",
+    "credits": 6.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 11,
+    "type": "VU",
+    "title": "Parallel Computing Einführung paralleles Rechnen",
+    "credits": 6.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 12,
+    "type": "VO",
+    "title": "Betriebssysteme",
+    "credits": 2.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 13,
+    "type": "UE",
+    "title": "Betriebssysteme",
+    "credits": 4.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 14,
+    "type": "VU",
+    "title": "Einführung in Visual Computing",
+    "credits": 6.0,
+    "tags": ["Pflichtmodul", "STEG erforderlich"]
+  }, {
+    "id": 15,
+    "type": "VU",
+    "title": "Technische Grundlagen der Informatik",
+    "credits": 6.0,
+    "tags": ["Pflichtmodul", "STEOP", "STEG erforderlich"]
+  }, {
+    "id": 16,
+    "type": "VO",
+    "title": "Verteilte Systeme",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 17,
+    "type": "UE",
+    "title": "Verteilte Systeme",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 18,
+    "type": "VO",
+    "title": "Abstrakte Maschinen",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 19,
+    "type": "UE",
+    "title": "Abstrakte Maschinen",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 20,
+    "type": "VU",
+    "title": "Microcontroller",
+    "credits": 7.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 21,
+    "type": "UE",
+    "title": "Programmierung von Betriebssystemen",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 22,
+    "type": "VU",
+    "title": "Übersetzerbau",
+    "credits": 6.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 23,
+    "type": "VO",
+    "title": "Echtzeitsysteme",
+    "credits": 2.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 24,
+    "type": "VU",
+    "title": "Dependable Systems",
+    "credits": 4.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 25,
+    "type": "VU",
+    "title": "Gesellschaftliche Spannungsfelder der Informatik",
+    "credits": "3.0",
+    "tags": ["Pflichtmodul", "STEG erforderlich"]
+  }, {
+    "id": 26,
+    "type": "VU",
+    "title": "Basics of Human Computer Interaction",
+    "credits": "3.0",
+    "tags": ["Pflichtmodul", "STEG erforderlich"]
+  }, {
+    "id": 27,
+    "type": "VU",
+    "title": "Gesellschaftswissenschaftliche Grundlagen der Informatik",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 28,
+    "type": "VU",
+    "title": "Interface and Interaction Design",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 29,
+    "type": "VU",
+    "title": "Daten- und Informatikrecht",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 30,
+    "type": "VU",
+    "title": "Introduction to Security",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 31,
+    "type": "VU",
+    "title": "Internet Security",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 32,
+    "type": "VU",
+    "title": "Security for Systems Engineering",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 33,
+    "type": "VU",
+    "title": "Privacy Enhancing Technology",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 34,
+    "type": "UE",
+    "title": "Daten- und Informatikrecht",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 35,
+    "type": "VU",
+    "title": "Vertrags- und Haftungsrecht",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 36,
+    "type": "VU",
+    "title": "Datenbanksysteme",
+    "credits": 6.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 37,
+    "type": "VU",
+    "title": "Einführung in die Künstliche Intelligenz",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 38,
+    "type": "VU",
+    "title": "Einführung in wissensbasierte Systeme",
+    "credits": 5.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 39,
+    "type": "VU",
+    "title": "Semistrukturierte Daten",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 40,
+    "type": "VU",
+    "title": "Web Engineering",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 41,
+    "type": "VU",
+    "title": "Fuzzy Modelle",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 42,
+    "type": "VU",
+    "title": "Computerstatistik",
+    "credits": 4.5,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 43,
+    "type": "VU",
+    "title": "Datenanalyse",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 44,
+    "type": "VU",
+    "title": "Statistical Computing",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 45,
+    "type": "VO",
+    "title": "Logik für Wissensrepräsentation",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 46,
+    "type": "UE",
+    "title": "Logik für Wissensrepräsentation",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 47,
+    "type": "VO",
+    "title": "Algebra und Diskrete Mathematik für Informatik und Wirtschaftsinformatik",
+    "credits": 4.0,
+    "tags": ["Pflichtmodul", "STEOP", "STEG erforderlich"]
+  }, {
+    "id": 48,
+    "type": "UE",
+    "title": "Algebra und Diskrete Mathematik für Informatik und Wirtschaftsinformatik",
+    "credits": 5.0,
+    "tags": ["Pflichtmodul", "STEOP", "STEG erforderlich"]
+  }, {
+    "id": 49,
+    "type": "VO",
+    "title": "Analysis für Informatik und Wirtschaftsinformatik",
+    "credits": 2.0,
+    "tags": ["Pflichtmodul", "STEG erforderlich"]
+  }, {
+    "id": 50,
+    "type": "UE",
+    "title": "Analysis für Informatik und Wirtschaftsinformatik",
+    "credits": 4.0,
+    "tags": ["Pflichtmodul", "STEG erforderlich"]
+  }, {
+    "id": 51,
+    "type": "VO",
+    "title": "Statistik und Wahrscheinlichkeitstheorie",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 52,
+    "type": "UE",
+    "title": "Statistik und Wahrscheinlichkeitstheorie",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 53,
+    "type": "VU",
+    "title": "Theoretische Informatik und Logik",
+    "credits": 6.0,
+    "tags": ["Pflichtmodul", "STEG erforderlich"]
+  }, {
+    "id": 54,
+    "type": "VO",
+    "title": "Computernumerik",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 55,
+    "type": "UE",
+    "title": "Computernumerik",
+    "credits": 1.5,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 56,
+    "type": "VO",
+    "title": "Multivariate Statistik",
+    "credits": 4.5,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 57,
+    "type": "UE",
+    "title": "Multivariate Statistik",
+    "credits": 1.5,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 58,
+    "type": "VU",
+    "title": "Statistische Simulation und computerintensive Methoden",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 59,
+    "type": "VU",
+    "title": "Argumentieren und Beweisen",
+    "credits": 6.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 60,
+    "type": "VU",
+    "title": "Formale Modellierung",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEOP", "STEG erforderlich"]
+  }, {
+    "id": 61,
+    "type": "VU",
+    "title": "Datenmodellierung",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEOP", "STEG erforderlich"]
+  }, {
+    "id": 62,
+    "type": "VU",
+    "title": "Objektorientierte Modellierung",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEG erforderlich"]
+  }, {
+    "id": 63,
+    "type": "VO",
+    "title": "Software Engineering und Projektmanagement",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 64,
+    "type": "PR",
+    "title": "Software Engineering und Projektmanagement",
+    "credits": 6.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 65,
+    "type": "VU",
+    "title": "Programm- und Systemverifikation",
+    "credits": 6.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 66,
+    "type": "VU",
+    "title": "Softwareprojekt-Beobachtung und -Controlling",
+    "credits": 6.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 67,
+    "type": "VU",
+    "title": "Software-Qualitätssicherung",
+    "credits": 6.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 68,
+    "type": "VU",
+    "title": "Usability Engineering",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 69,
+    "type": "VU",
+    "title": "Pilots in Mobile Interaction: User-centered Interaction Research and Evaluation",
+    "credits": 3.0,
+    "tags": ["Wahlmodul", "STEOP erforderlich"]
+  }, {
+    "id": 70,
+    "type": "SE",
+    "title": "Wissenschaftliches Arbeiten",
+    "credits": 3.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }, {
+    "id": 71,
+    "type": "PR",
+    "title": "Bachelorarbeit für Informatik und Wirtschaftsinformatik",
+    "credits": 10.0,
+    "tags": ["Pflichtmodul", "STEOP erforderlich"]
+  }]
+}
